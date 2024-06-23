@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🛰️ Hi, there! I'm Gabriel de Azeredo, an undergraduate student at IFSC/USP.
 
-<!--
-**gabrieldeazeredo/gabrieldeazeredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying for a bachelor's degree in computational physics and working in undergraduate research with the Astroparticle Physics group. 
 
-Here are some ideas to get you started:
+### 🌌 Astrophysics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research primarily centers on investigating the propagation of particles through the Universe. I have interest in multi-messenger astrophysics on high energy scale: UHECR, gamma rays and neutrines. 
+
+- 🔭 Current Project: Ultra-high energy cosmic rays propagation.
+- 🚀 Research interests: Ultra-high energy cosmic rays sources, numerical methods for astroparticle propagation.
+
+### 💻 Programming
+
+- **Languages:** Julia, C++, Fortran.
+- **Tools:** Python and its popular libs, shell script.
+
+### 📡 Let's Connect
+
+- 📧 Email: gabrielfreitas.azr@usp.br
