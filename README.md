@@ -8,7 +8,7 @@ My research primarily centers on investigating the propagation of particles thro
 
 - 🔭 **Current project:** UHECR propagation with potential dark sector interaction.
 - 🪐 **Past project:** Proton propagation by Monte Carlo method and numerical approach.
-- 🚀 **Topics of Interests:** Particle acceleration mechanisms in astrophysics, numerical methods for astroparticle propagation, UHECR sources.
+- 🚀 **Other Topics of Interest:** Particle acceleration mechanisms in astrophysics, UHECR sources.
 
 ### 💻 Programming
 
