@@ -6,9 +6,9 @@ I'm currently studying for a bachelor's degree in computational physics and work
 
 My research primarily centers on investigating the propagation of particles through the Universe. I have interest in multi-messenger astrophysics: ultra-high energy cosmic rays, gamma rays and neutrines.
 
-- 🔭 Current Project: UHECR propagation with potential dark sector interaction.
-- 🪐 Past Projects: Proton propagation by Monte Carlo method and numerical approach.
-- 🚀 Topics of Interests: Particle acceleration mechanisms in astrophysics, numerical methods for astroparticle propagation, UHECR sources.
+- 🔭 **Current project:** UHECR propagation with potential dark sector interaction.
+- 🪐 **Past project:** Proton propagation by Monte Carlo method and numerical approach.
+- 🚀 **Topics of Interests:** Particle acceleration mechanisms in astrophysics, numerical methods for astroparticle propagation, UHECR sources.
 
 ### 💻 Programming
 
