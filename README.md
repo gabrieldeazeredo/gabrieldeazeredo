@@ -1,4 +1,4 @@
-## 🛰️ Hi, there! I'm Gabriel de Azeredo, an undergraduate student at IFSC/USP.
+## 📡 Hi, there! I'm Gabriel de Azeredo, an undergraduate student at IFSC/USP.
 
 I'm currently studying for a bachelor's degree in computational physics and working in undergraduate research with the Astroparticle Physics group. 
 
@@ -15,6 +15,6 @@ My research primarily centers on the propagation of particles through the Univer
 - **Languages:** Julia, C++, Fortran.
 - **Tools:** Python and its popular libs, shell script, linux.
 
-### 📡 Let's Connect
+### 🛰️ Let's Connect
 
 - 📧 Email: gabrielfreitas.azr@usp.br
