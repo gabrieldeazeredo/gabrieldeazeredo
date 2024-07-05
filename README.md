@@ -13,7 +13,7 @@ My research primarily centers on the propagation of particles through the Univer
 ### 💻 Programming
 
 - **Languages:** Julia, C++, Fortran.
-- **Tools:** Python and its popular libs, shell script.
+- **Tools:** Python and its popular libs, shell script, linux.
 
 ### 📡 Let's Connect
 
