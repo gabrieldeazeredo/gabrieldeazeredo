@@ -8,7 +8,7 @@ My research primarily centers on the propagation of particles through the Univer
 
 - 🔭 **Current project:** UHECR propagation with potential dark sector interaction.
 - 🪐 **Past project:** extragalactic ultra-high energy proton propagation.
-- 🚀 **Other Topics of Interest:** particle acceleration mechanisms in astrophysics, cosmic rays sources and indirect search for dark matter.
+- 🚀 **Others Topics of Interest:** particle acceleration mechanisms in astrophysics, cosmic rays sources and indirect search for dark matter.
 
 ### 💻 Programming
 
