@@ -1,6 +1,6 @@
-## 📡 I'm Gabriel de Azeredo, an undergraduate student at IFSC/USP.
+## 📡 Gabriel de Azeredo
 
-I'm currently studying for a bachelor's degree in computational physics and working in undergraduate research with the Astroparticle Physics group. 
+I'm an astrophysicist working at the University of São Paulo with Astroparticle Physics Group (APOEMA).
 
 ### 🌌 Astrophysics
 
