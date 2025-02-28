@@ -6,9 +6,8 @@ I'm an astrophysicist working at the University of São Paulo with Astroparticle
 
 My research primarily centers on the propagation of particles through the Universe. I have interest in multi-messenger astrophysics: ultra-high energy cosmic rays, gamma rays and neutrinos.
 
-- 🔭 **Current project:** UHECR propagation with potential dark sector interaction.
-- 🪐 **Past project:** extragalactic ultra-high energy proton propagation.
-- 🚀 **Others Topics of Interest:** particle acceleration mechanisms in astrophysics, indirect search for dark matter and cosmic rays sources.
+- 🔭 **Current project:** local radio-galaxies as UHECR source with multi-messenger approach.
+- 🪐 **Past project:** proton propagation considering continuos energy losses.
 
 ### 💻 Programming
 
